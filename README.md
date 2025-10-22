@@ -24,3 +24,4 @@ A simple Java console application that simulates basic banking operations using 
 1. Compile the Java program:
    bash
    javac BankSystem.java
+   java BankSystem
